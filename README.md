@@ -1,7 +1,7 @@
 ## Overview
 
 - [Datatracker](https://datatracker.ietf.org/group/artarea/about/)
-- [Archive](https://mailarchive.ietf.org/arch/browse/art/
+- [Archive](https://mailarchive.ietf.org/arch/browse/art/)
 
 The ART Area works on the application layer and related protocols:
 
